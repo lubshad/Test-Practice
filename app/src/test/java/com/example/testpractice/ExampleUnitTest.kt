@@ -1,4 +1,4 @@
-package com.example.unittest
+package com.example.testpractice
 
 import org.junit.Test
 
